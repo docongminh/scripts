@@ -4,3 +4,6 @@
 [submodule "kafka/kafka-docker"]
 	path = kafka/kafka-docker
 	url = https://github.com/wurstmeister/kafka-docker
+[submodule "kafka/UI/akhq"]
+	path = kafka/UI/akhq
+	url = https://github.com/tchiotludo/akhq
